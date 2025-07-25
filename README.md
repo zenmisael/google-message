@@ -60,3 +60,6 @@ client.on('authenticated', async (service) => {
 ```
 
 **Note**: `sendMessage` takes first arg as number with `countryCode + Number` second arg as TextMessage
+
+## License
+This project is licensed under the MIT [License](LICENSE).
